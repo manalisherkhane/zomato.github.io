@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nv{
+    background-image: url(https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png);
+    width:100%;
+    height: 500px;
+}
+
+.nv nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: rgb(229, 222, 222);
+    
+}
+
+.nv nav .right{
+    display: flex;
+}
+nav p{
+    margin-inline: 11px;
+    margin-top: 22px;
+}
+.nv .logo{
+    text-align: center;
+    
+}
+.nv .logo img {
+    width: 50vw;    
+}
+
+.nv .inp{
+    text-align: center;
+}
+.nv .text{
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    font-size: 22px;
+}
+.nv .inp input{
+    width: 600px;
+    height: 10px;
+    font-size: 19px;
+    padding: 22px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    margin: 22px;
+   
+}
+.card{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.card .crd img{
+    width: 400px;
+    height: 220px;
+    border-radius: 6px;
+    margin-top: 55px;
+}
+.coll .rest{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.rest{
+    border-radius: 7px;
+}
+.app{
+   
+    
+    background-color: rgb(218, 179, 186);
+   
+}
+.p1{
+    margin-bottom: 500px;
+    font-size: 600px;
+}
+.btn button{
+    width: 900px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 11px;
+    margin-left: 133px;
+    font-size: 22px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(236, 228, 228);
+    margin-top: 44px;
+    padding:44px ;
+
+}
